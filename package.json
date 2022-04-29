@@ -77,7 +77,7 @@
     "postbuild": "node scripts/redirects.js"
   },
   "devDependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "download": "^7.1.0",
     "fs-extra": "^7.0.0",
     "gatsby-plugin-root-import": "^1.0.0",
