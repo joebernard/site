@@ -13,7 +13,7 @@
     "eslint-loader": "^2.1.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-react": "^7.10.0",
-    "gatsby": "^1.9.277",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-favicon": "^2.1.1",
     "gatsby-plugin-feed": "^1.3.19-14",
